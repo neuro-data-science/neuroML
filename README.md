@@ -8,7 +8,7 @@ To use:
 3. Call docker:
 
 ```
-docker run -it --rm -v /outside_path/to/data/:/data -v $PWD:/home/neuro/test -p 8888:8888 satra/ibro-workshop-2017
+docker run -it --rm  -v $PWD:/home/neuro/test -p 8888:8888 satra/ibro-workshop-2017
 
 ```
 
