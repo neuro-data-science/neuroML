@@ -19,3 +19,9 @@ $ jupyter-notebook --ip=*
 ```
 
 5. open the url in a local browser.
+
+
+Main resources:
+ - [scikit-learn user guide](http://scikit-learn.org/stable/user_guide.html)
+ - [Monte Lunacek tutorial](https://github.com/mlunacek/meetup_data_science_2016)
+ - [Jake Vanderplas tutorial](https://github.com/jakevdp/sklearn_tutorial)
